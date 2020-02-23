@@ -130,3 +130,4 @@ dmypy.json
 
 
 random-audio/audio/*
+!random-audio/audio/mind-the-gap.wav
