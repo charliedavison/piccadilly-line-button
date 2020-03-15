@@ -1,7 +1,7 @@
 import pyttsx3
 import requests
 import os, time
-import Rpi.GPIO as GPIO
+import RPi.GPIO as GPIO
 
 speach_engine = pyttsx3.init()
 
